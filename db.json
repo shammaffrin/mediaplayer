@@ -1,0 +1,134 @@
+{
+  "videos": [
+    {
+      "caption": "dheema",
+      "Imgurl": "https://i.ytimg.com/vi/H1frBzuWqqM/sddefault.jpg",
+      "embedlink": "https://www.youtube.com/embed/H1frBzuWqqM",
+      "id": 1
+    },
+    {
+      "caption": "Jhol | Coke Studio Pakistan |",
+      "Imgurl": "https://i.ytimg.com/vi/-2RAq5o5pwc/maxresdefault.jpg",
+      "embedlink": "https://www.youtube.com/embed/-2RAq5o5pwc",
+      "id": 2
+    },
+    {
+      "caption": "Eyy Banane - Video",
+      "Imgurl": "https://i.ytimg.com/vi/e1BHIY9p2WU/mqdefault.jpg",
+      "embedlink": "https://www.youtube.com/embed/e1BHIY9p2WU",
+      "id": 3
+    },
+    {
+      "caption": "Kiliye (Malayalam) |ARM",
+      "Imgurl": "https://i.ytimg.com/vi/B2UBMTA57JI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDV8KTAgNTIhANW9efTkzq9m_kLZg",
+      "embedlink": "https://www.youtube.com/embed/B2UBMTA57JI",
+      "id": 4
+    },
+    {
+      "caption": "Haan Ke Haan Song | Maharaj",
+      "Imgurl": "https://i.ytimg.com/vi/g7u8-XivAbk/maxresdefault.jpg",
+      "embedlink": "https://www.youtube.com/embed/NDjeeJwI08Q",
+      "id": 5
+    },
+    {
+      "caption": "Koi Mil Gaya: Kuch Kuch Hota Hai ",
+      "Imgurl": "https://i.ytimg.com/vi/gmXlGQAg400/maxresdefault.jpg",
+      "embedlink": "https://www.youtube.com/embed/gmXlGQAg400",
+      "id": 6
+    },
+    {
+      "caption": "Golden Sparrow",
+      "Imgurl": "https://i.ytimg.com/vi/AAq06bS8UZM/maxresdefault.jpg",
+      "embedlink": "https://www.youtube.com/embed/AAq06bS8UZM",
+      "id": 7
+    }
+  ],
+  "history": [
+    {
+      "caption": "Sahiba ",
+      "url": "https://www.youtube.com/embed/NW6Dgax2d6I",
+      "timestamp": "20/11/2024, 11:16:31",
+      "id": 1
+    },
+    {
+      "caption": "Sahiba ",
+      "url": "https://www.youtube.com/embed/NW6Dgax2d6I",
+      "timestamp": "20/11/2024, 11:25:41",
+      "id": 2
+    },
+    {
+      "caption": "Sahiba ",
+      "url": "https://www.youtube.com/embed/NW6Dgax2d6I",
+      "timestamp": "20/11/2024, 15:40:38",
+      "id": 3
+    },
+    {
+      "caption": "Sahiba ",
+      "url": "https://www.youtube.com/embed/NW6Dgax2d6I",
+      "timestamp": "20/11/2024, 17:07:58",
+      "id": 4
+    },
+    {
+      "caption": "Sahiba ",
+      "url": "https://www.youtube.com/embed/NW6Dgax2d6I",
+      "timestamp": "20/11/2024, 17:08:37",
+      "id": 5
+    },
+    {
+      "caption": "Sahiba ",
+      "url": "https://www.youtube.com/embed/NW6Dgax2d6I",
+      "timestamp": "27/11/2024, 12:44:00",
+      "id": 6
+    }
+  ],
+  "category": [
+    {
+      "category": "hindi songs",
+      "allVideos": [
+        {
+          "caption": "Jhol | Coke Studio Pakistan |",
+          "Imgurl": "https://i.ytimg.com/vi/-2RAq5o5pwc/maxresdefault.jpg",
+          "embedlink": "https://www.youtube.com/embed/-2RAq5o5pwc",
+          "id": 2
+        }
+      ],
+      "id": 1
+    },
+    {
+      "category": "malayalam songs",
+      "allVideos": [
+        {
+          "caption": "Eyy Banane - Video",
+          "Imgurl": "https://i.ytimg.com/vi/e1BHIY9p2WU/mqdefault.jpg",
+          "embedlink": "https://www.youtube.com/embed/e1BHIY9p2WU",
+          "id": 3
+        },
+        {
+          "caption": "Kiliye (Malayalam) |ARM",
+          "Imgurl": "https://i.ytimg.com/vi/B2UBMTA57JI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDV8KTAgNTIhANW9efTkzq9m_kLZg",
+          "embedlink": "https://www.youtube.com/embed/B2UBMTA57JI",
+          "id": 4
+        }
+      ],
+      "id": 2
+    },
+    {
+      "category": "tamil songs",
+      "allVideos": [
+        {
+          "caption": "dheema",
+          "Imgurl": "https://i.ytimg.com/vi/H1frBzuWqqM/sddefault.jpg",
+          "embedlink": "https://www.youtube.com/embed/H1frBzuWqqM",
+          "id": 1
+        },
+        {
+          "caption": "Golden Sparrow",
+          "Imgurl": "https://i.ytimg.com/vi/AAq06bS8UZM/maxresdefault.jpg",
+          "embedlink": "https://www.youtube.com/embed/AAq06bS8UZM",
+          "id": 7
+        }
+      ],
+      "id": 3
+    }
+  ]
+}
